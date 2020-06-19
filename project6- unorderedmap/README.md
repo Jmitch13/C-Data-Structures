@@ -1,9 +1,4 @@
 # Project 6
 ## CSUF CPSC 131, Fall 2018
 
-MUST EDIT WITH YOUR OWN NAME AND EMAIL IN THE SAME FORMAT
-DELETE UNUSED EMAIL ADDRESSES
-ONLY ONE REPOSITORY SHOULD HAVE YOUR EMAIL ADDRESS (ONE REPO PER GROUP)
-
-Group members:
-- Josh Mitchell jmitch13@csu.fullerton.edu
+using an unordered_map to create a number of functions similar to what was used with the multimap in project #5
